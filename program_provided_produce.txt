@@ -1,0 +1,34 @@
+Butter,Land O’Lakes Salted Butter,Dairy,3.79,1
+Cheddar cheese,Kraft Cheddar Cheese Slices,Dairy,3.70,2
+Milk,Horizon 2% Milk,Dairy,6.67,3
+Vanilla Yogurt,Yoplait Light ‘n Fit Nonfat Vanilla Yogurt,Dairy,0.66,4
+Chocolate Ice Cream,Breyer’s Chocolate Ice Cream,Sweets,4.61,5
+Sandwich Bread,Wonder Bread Sandwich Bread,Pantry,2.86,6
+Vinegar,Alessi Balsalmic Vinegar,Staples & Misc.,4.98,7
+Horseradish,Boar’s Head Horseradish,Staples & Misc.,4.49,8
+Bananas,Dole Bananas,Fruits and Vegetables,2.23,9
+Peppermint,365 Dried Peppermint Flakes,Staples & Misc.,9.90,10
+Whole Wheat English Muffin,Oroweat 100% Whole Wheat English Muffin,Grain,2.29,11
+Cinnamon Toast Crunch,Big G Cereals Cinnamon Toast Crunch,Grain,3.99,12
+Olive Oil,Bertolli Extra Virgin Olive Oil,Staples & Misc.,14.48,13
+Chicken Breast,Tyson Foods Chicken Breast,Meat,11.29,14
+Tomato Soup,Campbell’s Condensed Tomato Soup,Staples & Misc.,1.26,15
+Honey Almond Flax Cereal,Kashi Company GoLean Crunch! Honey Almond Flax Cereal,Grain,3.89,16
+Three Cheese Tortellini,Buitoni Three Cheese Tortellini,Grain,7.58,17
+Turkey Breast,Oscar Mayer Oven Roasted White Turkey,Meat,3.74,18
+Raisin Bran Cereal,Kellogg Co. Raisin Bran Cereal,Grain,3.99,19
+Bologna,Wegmans Wunderbar German Deli Bologna,Meat,7.36,20
+Smoked Ham,Oscar Mayer Deli Style Smoked Ham,Meat,4.49,21
+Apple Juice,Mott’s Natural Apple Juice,Beverages,3.63,22
+Pinto Beans,Canned Pinto Beans,Fruits and Vegetables,1.42,23
+Beets,Whole Food Market Beets,Fruits and Vegetables,3.99,24
+Sweet Peas,Green Giant Sweet Peas,Fruits and Vegetables,6.99,25
+Green Bell Peppers,Earthbound Farms Green Bell Peppers,Fruits and Vegetables,2.96,26
+Dark Chocolate Bar,Dove Dark Chocolate Bar,Sweets,3.49,27
+Oats ‘N Honey Crunchy Granola Bars,Nature Valley Oats ‘N Honey Crunchy Granola Bars,Snack,7.12,28
+Rice Pilaf: Roasted Almond Flavor,Near East Rice Pilaf: Roasted Almond Flavor,Grain,2.33,29
+Whole Wheat Penne Pasta,Hodgson Mill Whole Wheat Penne Pasta,Grain,1.84,30
+Macaroni & Cheese,Kraft Macaroni and Cheese,Grain,0.99,31
+Peanut Butter,Jiffy Creamy Peanut Butter,Staples & Misc.,2.76,32
+Green Beans,Del Monte Green Beans,Fruits and Vegetables,1.42,33
+Broccoli Florets,Earthbound Farm Broccoli,Fruits and Vegetables,3.99,34
