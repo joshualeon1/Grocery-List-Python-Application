@@ -7,4 +7,4 @@ from MainFunctions import test_dictionary
 
 #call the main method
 if __name__ == "__main__":
-    test_linkedlist()
+    main_step_three()
